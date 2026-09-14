@@ -22,6 +22,7 @@ Computer Engineering student (4th year) at Pontificia Universidad Católica de C
 Formato sugerido por proyecto:
 - **[Nombre del proyecto](https://github.com/rodriigod/nombre-repo)** — una línea explicando qué hace y qué técnica clave usaste.
 -->
+- **[EY AI & Data Challenge 2026 - Writeup](https://github.com/rodriigod/EY-AI-Data-Challenge-2026-writeup)** — The project involves a predictive model for water quality in South African rivers; the repository summarizes my experience and was developed for the EY AI & Data Challenge 2026.
 
 ## 🎓 University Projects / Coursework
 
